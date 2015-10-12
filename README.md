@@ -2,6 +2,21 @@
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
+## Instructions for running test
+1. Open index.html in browser
+2. Utilize the Jasmine TopLevel Suite test results at the bottom of the web page
+3. Identify specs and number of failures by category
+	RSS Feeds
+		name defined and that the name is not empty
+		URL defined and not empty
+		name defined and not empty
+	(1)The Menu
+		hide The Menu
+		display The Menu
+	(2)Initial Entries
+		has at least one entry
+	(3)New Feed Selection
+		content changes when a new feed is loaded
 
 ## Why this Project?
 
